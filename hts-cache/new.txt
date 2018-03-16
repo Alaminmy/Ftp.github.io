@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+03:43:18	1175/1175	---M--	404	error ('Not%20Found')	text/html	date:Wed,%2014%20Mar%202018%2010:45:39%20GMT	http://www.jalshaghor.com/robots.txt		(from )
+03:43:19	49156/49156	---MC-	200	added ('OK')	text/html	date:Wed,%2014%20Mar%202018%2010:45:40%20GMT	http://www.jalshaghor.com/	C:/My%20Web%20Sites/jolshagor/www.jalshaghor.com/index.html	(from )

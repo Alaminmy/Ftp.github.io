@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.jalshaghor.com	TRUE	/	FALSE	1999999999	ci_session	a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%224c7955d9ab78c801ed71b95a8f4db8f5%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A13%3A%22182.48.81.254%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F4.5+%28compatible%3B+HTTrack+3.0x%3B+Windows+98%29%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1521024340%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D9418fc2e430376451ebb3500f70516835af7d3c1
+
